@@ -16,7 +16,7 @@ As a first project, it was made aiming practicing HTML, CSS and JavaScript.
 You can access the project's source code or download it.
 
 # ✔️ Técnicas e tecnologias utilizadas
-HTML
-CSS
-BOOTSTRAP
-JAVASCRIPT
+`HTML`
+`CSS`
+`BOOTSTRAP`
+`JAVASCRIPT`
