@@ -1,7 +1,5 @@
 <h1 align="center">CALCULATOR</h1>
 
-https://img.shields.io/github/release-date/SIQUEIRA-TIAGO/calculator
-
 A simple calculator with basic functions.
 As a first project, it was made aiming practicing HTML, CSS and JavaScript.
 
