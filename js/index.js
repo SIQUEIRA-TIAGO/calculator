@@ -35,7 +35,6 @@ document.getElementById("clear").addEventListener("click", function () {
 });
 
 document.getElementById("del").addEventListener("click", function () {
-  input.selectionStart()
   input.value = input.value.slice(0, -1);
   input.focus();
 });
